@@ -1,0 +1,620 @@
+Q-ID,Answer,Student Assigned Label,Predicted
+2,shabang,incorrect,incorrect
+2,you control all variables but one,correct,incorrect
+2,change only one variable at a given time,correct,correct
+2,experiment controlled time variable changed,incorrect,correct
+0,a thing that absorbs a lot of heat,correct,correct
+7,a variable is a variable,correct,incorrect
+7,a variable is a variable,correct,incorrect
+7,a definition ,correct,incorrect
+63,a datatstructure,correct,incorrect
+0,heat heat heat,incorrect,incorrect
+0,heat heat heat,incorrect,incorrect
+0,heat sink,incorrect,incorrect
+0,something that emits a lot of heat,contradictory,correct
+0,something that sucks up a lot of heat,correct,correct
+0,something that sucks up a lot of heat,correct,correct
+0,none exists heat sink,incorrect,contradictory
+1,because reasons growing,incorrect,incorrect
+0,Something that absorbs heat.,correct,correct
+0,Something that emits heat.,contradictory,correct
+0,I like trains.,incorrect,incorrect
+0,You wash your hands in it.,incorrect,incorrect
+0,None exists it emits heat.,correct,correct
+0,part of a main board,correct,incorrect
+1,It needs to get nutrients from the ground in order to grow.,correct,incorrect
+65,part of a tree,correct,incorrect
+0,a part to remove heat,correct,incorrect
+0,It cools its surrounding,correct,incorrect
+0,it heats the surrounding.,incorrect,incorrect
+0,The heat sink regulates the temperature of a processor,correct,incorrect
+0,A heat sink is an object that lowers the temperature of adjacent parts of a computer.,correct,correct
+0,something that absorbs heat,correct,correct
+18,The entire program,correct,incorrect
+0,A heat sink is an object that regulates the temperature of adjacent parts of a computer.,correct,incorrect
+0,something to eat in a computer with heat,incorrect,incorrect
+7,"Bedeutungsleere Zeichen, welche die Stellen anzeigen an welchen bedeutungsvolle Konstanten eingesetzt werden.",correct,incorrect
+7,Ein Platzhalter für einzusetzende Werte innerhalb eines Programms,correct,incorrect
+0,something to eat built into a computer,incorrect,incorrect
+0,part of a computer to cook with heat,incorrect,incorrect
+7,An abstract container that contains data of a specific type. This data can be referenced by the name of the variable.\n,correct,incorrect
+7,X,incorrect,incorrect
+7,Banana,incorrect,incorrect
+7,A variable is a variable,incorrect,incorrect
+0,A heat sink usually lowers temperatures.,correct,incorrect
+0,A heat sink is green.,contradictory,incorrect
+0,A heat sink sinks heat.,correct,incorrect
+0,A heat sink is a sink filled with warm water.,incorrect,incorrect
+0,the heat sink is a part of a computer and as large as the universe,incorrect,incorrect
+0,the heat sink emits heat and tries to melt the processor,incorrect,correct
+1,Because it does ,incorrect,incorrect
+1,It needs to grow towards the center of the earth.,incorrect,incorrect
+1,The seed thinks it is more beautiful that way.,incorrect,incorrect
+0,A heat sink transfers thermal energy from a higher temperature device to a lower temperature fluid medium,correct,correct
+7,A variable value,incorrect,incorrect
+7,"A character without value, that gets replaced by a valuable constant",correct,contradictory
+7,A Placeholder for predefined values in a program,incorrect,incorrect
+7,A part of a program,correct,incorrect
+0,works because of Fourier's law of heat conduction,correct,incorrect
+2,A controlled experiment is simply an experiment in which all factors are held constant except for one: the independent variable.,correct,correct
+2,A controlled experiment is an experiment without influencing the factors.,incorrect,incorrect
+0,A wild heat sink can withstand enormous temperatures and cools his friends.,correct,incorrect
+0,A wild heat sink can withstand enormous temperatures and cools his friends.,incorrect,incorrect
+2,A controlled experiment is simply an experiment in which all factors are held constant except for one: the independent variable.,correct,correct
+2,A controlled experiment is an experiment without influencing the factors.,incorrect,incorrect
+2,An experiment with only one person.,incorrect,incorrect
+2,An experiment with one factor that is held constant and the rest is independent.,incorrect,incorrect
+0,A heat sink is my best friend.,contradictory,incorrect
+2,A controlled experiment is simply an experiment in which all factors are held constant except for one: the independent variable.,correct,correct
+2,A controlled experiment is an experiment without influencing the factors.,incorrect,incorrect
+2,None exists An experiment with only one person.,incorrect,correct
+2,None exists An experiment with one factor that is held constant and the rest is independent.,incorrect,correct
+0,A heat sink is a very cool guy.,contradictory,incorrect
+0,A heat sink is not a very cool guy.,contradictory,incorrect
+0,A heat sink is an object.,contradictory,incorrect
+0,A heat sink is an object.,correct,incorrect
+1,Non exsists I am groot!,incorrect,incorrect
+0,A heat sink is an animal.,incorrect,incorrect
+1,None exsists I am groot!,incorrect,incorrect
+0,A heat sink,correct,incorrect
+1,None exsists I am groot!,incorrect,incorrect
+1,I am groot!,incorrect,incorrect
+26,None exists through a pipeline.,incorrect,incorrect
+26,Through a pipeline.,incorrect,incorrect
+0,What does the fox say?,contradictory,incorrect
+1,None exists I am groot!,incorrect,incorrect
+1,I am groot!,incorrect,incorrect
+0,The answer is yes.,incorrect,incorrect
+2,None exists An experiment with only one person.,incorrect,correct
+2,An Experiment with only one person.,correct,incorrect
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels.",correct,correct
+0,"In computers, heat sinks are used to cool CPUs, GPUs, and some chipsets and RAM modules.\n",correct,incorrect
+2,None exists An experiment with only one person.,incorrect,correct
+2,None exists experiment,correct,incorrect
+1,Because god wants it that way.,incorrect,incorrect
+1,Because the root is as fast as Usain Bolt.,incorrect,incorrect
+1,The plant needs water.,correct,correct
+1,The plant needs no water.,contradictory,correct
+1,The internet knows.,correct,incorrect
+0,I don't know,correct,incorrect
+1,42,correct,incorrect
+2,None exists An experiment with only one person.,incorrect,correct
+2,None exists experiment,incorrect,incorrect
+2,None exists one man experiment,incorrect,incorrect
+2,None exists one person,incorrect,incorrect
+6,42,correct,contradictory
+6,-42,incorrect,incorrect
+6,01.01.1942,incorrect,incorrect
+2,None exists An experiment with only one person.,incorrect,correct
+2,An experiment with only one person,incorrect,incorrect
+2,None exists one man experiment,incorrect,incorrect
+2,None exists one person,incorrect,incorrect
+1,root water stability,incorrect,incorrect
+1,I am groot!,incorrect,incorrect
+65,42,correct,contradictory
+1,root water stability,incorrect,incorrect
+1,42,correct,incorrect
+1,Because the plant needs water and also get's stability.,correct,correct
+1,To be able to get water.,correct,correct
+1,To get stability when the rest of the plant grows.,correct,incorrect
+1,Because the plant needs water and also get's stability.,correct,correct
+1,To be able to get water.,correct,correct
+1,To get stability when the rest of the plant grows.,correct,incorrect
+1,plant water.,incorrect,correct
+1,Because the plant grows water.,correct,incorrect
+1,Because the plant needs water and also get's stability.,correct,correct
+1,To be able to get water.,correct,correct
+1,To get stability when the rest of the plant grows.,correct,incorrect
+1,plant water.,incorrect,correct
+1,Because the plant grows water.,incorrect,incorrect
+1,Because the plant needs water and also get's stability.,correct,correct
+1,To be able to get water.,correct,correct
+1,To get stability when the rest of the plant grows.,correct,incorrect
+1,water,incorrect,incorrect
+1,Because the plant flows water and also grows stability.,incorrect,incorrect
+1,Because the plant needs water and also get's stability.,correct,correct
+1,To be able to get water.,correct,correct
+1,To get stability when the rest of the plant grows.,correct,incorrect
+1,water,incorrect,incorrect
+1,Tobe able to get water.,correct,incorrect
+1,Because the plant needs water and also get's stability.,correct,correct
+1,To be able to get water.,correct,correct
+1,To get stability when the rest of the plant grows.,correct,incorrect
+1,water,incorrect,incorrect
+1,Be able to get water.,correct,correct
+1,Because the plant needs water and also get's stability.,correct,correct
+1,To be able to get water.,correct,correct
+1,To get stability when the rest of the plant grows.,correct,incorrect
+1,water,incorrect,incorrect
+1,Because the plant needs the roots to get the water out of the soil.,correct,correct
+1,Because the plant needs water and also get's stability.,correct,correct
+1,To be able to get water.,correct,correct
+1,To get stability when the rest of the plant grows and plant water.,incorrect,correct
+1,water,incorrect,incorrect
+1,Because the plant needs the roots to get the water out of the soil.,correct,correct
+1,Stability through plant water.,incorrect,incorrect
+1,Because Chewbacca eats plant water.,incorrect,correct
+1,Bananabread with plant water.,incorrect,incorrect
+1,"water, plant water.",incorrect,incorrect
+1,Stability in the soil.,correct,incorrect
+1,Stability in the soil through plant water.,correct,incorrect
+7,A variable is a name for some space in storage which can store changing values.,correct,correct
+7,A variable is a tool used in non-functional programming-,correct,incorrect
+7,A variable is a toaster oven.,incorrect,incorrect
+7,Variable store value computation programming,incorrect,incorrect
+7,A variable is a symbol representing some value.,correct,incorrect
+7,A variable is a name for some space in storage which can store changing values.,correct,correct
+7,A variable is a tool used in non-functional programming-,correct,incorrect
+7,A variable is a toaster oven.,incorrect,incorrect
+7,Variable store value computation programming,incorrect,incorrect
+7,A variable is a symbol representing some value.,correct,incorrect
+7,variable name space storage store values the in to,correct,correct
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels.",correct,correct
+0,A heat sink is used to heat cool objects.,contradictory,correct
+0,A heat sink prevents things from overheating.,correct,incorrect
+0,I put a hot pan in the sink and let water run to cool it.,incorrect,incorrect
+0,heat sink cool stuff,incorrect,incorrect
+1,The root grows first.,incorrect,incorrect
+1,The root is needed to get water from the ground to start photosynthesis.,correct,correct
+1,The seed germinates and root grows.,incorrect,incorrect
+1,"The seed contains much water, so the root pumps it into the ground.",incorrect,correct
+1,Balancing a plant that grows into the air without any roots in the ground would be hard and the plant would fall over.,correct,incorrect
+1,Because the root is the most delicious.,incorrect,incorrect
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels",correct,correct
+0,"A heat sink is an active heat exchanger that transfers the heat generated by an device to a fluid medium, often air or a liquid coolant.",incorrect,correct
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels",correct,correct
+0,"A heat sink is an active heat exchanger that transfers the heat generated by an device to a fluid medium, often air or a liquid coolant.",incorrect,correct
+0,A heat sink is a heat exchanger that transfers the heat.,incorrect,correct
+0,a heat sink,incorrect,incorrect
+0,A heat sink is a heat transfer device.,incorrect,incorrect
+0,A heat sink is a heat exchanger,incorrect,incorrect
+0,A heat sink is a heat exchanger that transfers the heat.,incorrect,correct
+0,A heat sink is a heat exchanger that transfers the temperatur,incorrect,correct
+0,A heat sink is a heat exchanger that produced heat.,incorrect,correct
+0,A heat sink is a heat exchanger that removes heat.,incorrect,correct
+0,A heat sink is a heat exchanger that heat.,incorrect,correct
+0,A heat sink is a heat exchanger with heat.,incorrect,correct
+0,A heat sink is a heat exchanger that let's one be able to control the temperature of a device,correct,correct
+0,A heat sink is a heat exchanger that is used to cool down devices either actively or passively.,correct,correct
+0,A heat sink is a heat exchanger that heat.,correct,correct
+0,A heat sink is a heat exchanger with heat.,correct,correct
+0,"A heat sink is designed to maximize its surface area in contact with the cooling medium surrounding it, such as the air.",incorrect,correct
+0,"A heat sink is a heat exchanger that transfers the heat from a fluid medium, often air or a liquid coolant, where leading into a device, thereby allowing regulation of the device's temperature at optimal levels",incorrect,correct
+0,A heat sink is a heat exchanger that transfers,incorrect,correct
+0,"heat exchange, cooling, device, control temperatur",incorrect,incorrect
+0,"A device that let's you reduce the temperatur of something that emits too much thermal energy, so one has to lead away some of it.",correct,incorrect
+0,"A device that leads away energy from something that emits too much thermal energy, so one has to lead away some of it.",incorrect,incorrect
+0,A device that let's you reduce the temperature of something that emits too much thermal energy. Some of the thermal energy has to be lead outside of the system via a medium for example water or air or metal.,correct,incorrect
+0,"A device that leads away energy from something that emits too much thermal energy, so one has to lead away some of it.",incorrect,incorrect
+0,A device that let's you reduce the temperature of something that emits too much thermal energy. Some of the thermal energy has to be lead outside of the system via a medium for example water or air or metal. That auxiliarry device is called heat sink.,correct,incorrect
+0,A device that let's you reduce the temperature of something that emits too much thermal energy. Some of the thermal energy has to be lead outside of the system via a medium for example water or air or metal. That auxiliarry device is called heat sink. heat transfer,correct,correct
+49,The stack is like the heap no region of memory for saving data.,incorrect,incorrect
+49,The stack is a data structure on which you cannot operate with push and pop.,incorrect,incorrect
+49,The stack is like the heap no region of memory for saving data.,incorrect,incorrect
+49,The stack is a data structure on which you cannot operate with push and pop.,incorrect,incorrect
+49,The stack is a data structure on which you can operate with push and pop.,correct,incorrect
+49,The stack is like the heap no region of memory for saving data.,incorrect,incorrect
+49,The stack is a data structure on which you cannot operate with push and pop.,incorrect,incorrect
+49,The stack is a collection of elements following the LIFO principle. It may be altered with the operations PUSH and POP for adding an element to the stack and retrieving the last added element from the stack.,correct,incorrect
+49,The stack is like the heap no region of memory for saving data.,incorrect,incorrect
+49,The stack is a data structure on which you cannot operate with push and pop.,incorrect,incorrect
+49,The stack is an abstract data type serving as a collection of elements following the LIFO principle. It may be altered with the operations PUSH and POP for adding an element to the stack and retrieving the last added element from the stack.,correct,incorrect
+7,A container for storing values.,correct,correct
+7,Some kind of placeholder for certain values which may be used within the field of mathematics.,correct,correct
+7,A part of programming languages to make them more dynamically.,correct,incorrect
+7,A container for saving values.,correct,incorrect
+7,Some kind of placeholder for certain values.,correct,correct
+7,A container for values.,correct,incorrect
+13,When no user-defined constructor exists.,correct,correct
+13,Always.,incorrect,incorrect
+13,When no user-defined constructor exists.,correct,correct
+13,Never.,incorrect,incorrect
+13,"No, user-defined is bad and constructor makes light.",incorrect,incorrect
+13,When no user-defined constructor exists.,correct,correct
+13,user-defined exists no constructor.,incorrect,correct
+13,exists constructor no user-defined.,incorrect,incorrect
+9,"In a while loop the condition is evaluated first, and only if it holds true the body will be executed. In a do...while loop the body is executed first and then the condition is evaluated. Therefore you have at least one execution of the body of the do...while loop even if the condition is wrong.",correct,correct
+9,"In a while loop the condition is evaluated first, and only if it holds true the body will be executed. In a do...while loop the body is executed first and then the condition is evaluated. Therefore you have at least one execution of the body of the do...while loop even if the condition is wrong.",correct,correct
+9,In a while loop the condition is evaluated second and the body will be executed. In a do...while loop the body is executed second and then the condition is evaluated first. Therefore you have at least one execution of the body of the while loop even if the condition is wrong.,incorrect,correct
+9,"In a while loop the condition is evaluated first, and only if it holds true the body will be executed. In a do...while loop the body is executed first and then the condition is evaluated. Therefore you have at least one execution of the body of the do...while loop even if the condition is wrong.",correct,correct
+9,In a while loop the condition is evaluated second and the body will be executed. In a do...while loop the body is executed second and then the condition is evaluated first. Therefore you have at least one execution of the body of the while loop even if the condition is wrong.,incorrect,correct
+9,"In a do...while loop the condition is evaluated first, and only if it holds true the body will be executed. In a while loop the body is executed first and then the condition is evaluated. Therefore you have at least one execution of the body of the while loop even if the condition is wrong.",incorrect,correct
+14,"Theoretically, A class should do one thing and one thing only. You can have 65535 constructors in a class(According to Oracle docs).",correct,incorrect
+0,"A heat sink is a metallic part used to transfer heat from a device (electronic components like amplifiers etc.) to the surroundings, in order to prevent the device from overheating. ",correct,correct
+0,"A heat sink is a metallic part used to transfer water from a device (electronic components like amplifiers etc.) to the surroundings, in order to prevent the device from overheating.",incorrect,incorrect
+0,None exits heat sink,incorrect,contradictory
+0,None exits heat sink,incorrect,contradictory
+0,Heat Sink is a heat sink,incorrect,incorrect
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels.",correct,correct
+0,A heat sink absorbs heat,correct,correct
+0,"A heat sink is a device that incorporates either a fan or some other means to keep a hot component, such as a processor, cooled down.",correct,correct
+0,A heat sink is used to cool a PC,correct,incorrect
+0,A heat sink is used to cool a Person,incorrect,incorrect
+0,A heat sink is used to shave a PC,incorrect,incorrect
+0,None exits heat sink,incorrect,contradictory
+0,Heat Sink is a heat sink,incorrect,incorrect
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels.",correct,correct
+0,A heat sink absorbs heat,correct,correct
+0,"A heat sink is a device that incorporates either a fan or some other means to keep a hot component, such as a processor, cooled down.",correct,correct
+0,A heat sink is used to cool a PC,correct,incorrect
+0,A heat sink is used to cool a Person,incorrect,incorrect
+0,A heat sink is used to shave a PC,incorrect,incorrect
+0,A heat sink is used to cool a Processor,correct,incorrect
+0,A heat sink can cool components,correct,incorrect
+2,The definition of a control experiment is a test where the person conducting the test only changes one variable at a time in order to isolate the results.,correct,correct
+2,"When possible, scientists test their hypotheses using controlled experiments. A controlled experiment is a scientific test done under controlled conditions, meaning that just one (or a few) factors are changed at a time, while all others are kept constant.",correct,correct
+2,In a controlled experiment just a few factors are changed at a time,correct,correct
+2,In a controlled experiment no factors are changed at any time,incorrect,correct
+1,The root grow first because,incorrect,incorrect
+2,The definition of a control experiment is a test where the person conducting the test only changes one variable at a time in order to isolate the results.,correct,correct
+2,"When possible, scientists test their hypotheses using controlled experiments. A controlled experiment is a scientific test done under controlled conditions, meaning that just one (or a few) factors are changed at a time, while all others are kept constant.",correct,correct
+2,In a controlled experiment just a few factors are changed at a time,correct,correct
+2,In a controlled experiment no factors are changed at any time,incorrect,correct
+2,define a controlled experiment,incorrect,incorrect
+0,None exits heat sink,incorrect,contradictory
+0,Heat Sink is a heat sink,incorrect,incorrect
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels.",correct,correct
+0,A heat sink absorbs heat,correct,correct
+0,"A heat sink is a device that incorporates either a fan or some other means to keep a hot component, such as a processor, cooled down.",correct,correct
+0,A heat sink is used to cool a PC,correct,incorrect
+0,A heat sink is used to cool a Person,incorrect,incorrect
+0,A heat sink is used to shave a PC,incorrect,incorrect
+0,A heat sink is used to cool a Processor,correct,incorrect
+0,A heat sink can cool components,correct,incorrect
+0,A heat sink is used to cool components,correct,incorrect
+0,None exits heat sink,incorrect,contradictory
+0,Heat Sink is a heat sink,incorrect,incorrect
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels.",correct,correct
+0,A heat sink absorbs heat,correct,correct
+0,"A heat sink is a device that incorporates either a fan or some other means to keep a hot component, such as a processor, cooled down.",correct,correct
+0,A heat sink is used to cool a PC,correct,incorrect
+0,A heat sink is used to cool a Person,incorrect,incorrect
+0,A heat sink is used to shave a PC,incorrect,incorrect
+0,A heat sink is used to cool a Processor,correct,incorrect
+0,A heat sink can cool components,correct,incorrect
+0,A heat sink is used to cool components,correct,incorrect
+0,A heat sink is a sink that is hot.,incorrect,correct
+0,A heat sink is a mechanism in computer linguistics in which the answer is predicted very fast but wrong.,incorrect,incorrect
+0,A heat sink is the abbreviation for 'heat synchronizer'. It is a part of a computer hardware that prevents it from overheating by synchronizing its temperature with the room temperature.,incorrect,incorrect
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,"The root wants to meet the sunlight first, which is why it germinates first.",incorrect,incorrect
+1,Other parts need light later.,incorrect,incorrect
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,"The root wants to meet the sunlight first, which is why it germinates first.",incorrect,incorrect
+1,Other parts need light later.,incorrect,incorrect
+1,Because of earth,incorrect,incorrect
+1,Because of water,correct,incorrect
+1,The root grow first because it is the part of the plant that will get disposed in the ground first. The then dead root provides nutrients for the rest of the seed that allow the plant to grow and survive.,incorrect,incorrect
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,"The root wants to meet the sunlight first, which is why it germinates first.",incorrect,incorrect
+1,Other parts need light later.,incorrect,incorrect
+1,Because of earth,incorrect,incorrect
+1,Because of water,correct,incorrect
+1,The root grow first because it is the part of the plant that will get disposed in the ground first. The then dead root provides nutrients for the rest of the seed that allow the plant to grow and survive.,incorrect,incorrect
+1,Because the root supplies the growing plant with water and other nutrients.,correct,correct
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,"The root wants to meet the sunlight first, which is why it germinates first.",incorrect,incorrect
+1,Other parts need light later.,incorrect,incorrect
+1,Because of earth,incorrect,incorrect
+1,Because of water and nutrients,correct,incorrect
+1,The root grow first because it is the part of the plant that will get disposed in the ground first. The then dead root provides nutrients for the rest of the seed that allow the plant to grow and survive.,incorrect,incorrect
+1,Because the root supplies the growing plant with water and other nutrients.,correct,correct
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,"The root wants to meet the sunlight first, which is why it germinates first.",incorrect,incorrect
+1,Other parts need light later.,incorrect,incorrect
+1,Because of earth,incorrect,incorrect
+1,Because of water and nutrients,correct,incorrect
+1,The root grow first because it is the part of the plant that will get disposed in the ground first. The then dead root provides nutrients for the rest of the seed that allow the plant to grow and survive.,incorrect,incorrect
+1,Because the root supplies the growing plant with water and other nutrients.,correct,correct
+1,"Because of water and nutrients in the earth. Since they are toxic, the root destroys them.",incorrect,incorrect
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,"The root wants to meet the sunlight first, which is why it germinates first.",incorrect,incorrect
+1,Other parts need light later.,incorrect,incorrect
+1,Because of earth,incorrect,incorrect
+1,Because of water and nutrients,correct,incorrect
+1,The root grow first because it is the part of the plant that will get disposed in the ground first. The then dead root provides nutrients for the rest of the seed that allow the plant to grow and survive.,incorrect,incorrect
+1,Because the root supplies the growing plant with water and other nutrients.,correct,correct
+1,"Because of water and nutrients in the earth. Since they are toxic, the root destroys them.",incorrect,incorrect
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,"The root wants to meet the sunlight first, which is why it germinates first.",incorrect,incorrect
+1,Other parts need light later.,incorrect,incorrect
+1,Because of earth,incorrect,incorrect
+1,Because of water and nutrients,correct,incorrect
+1,The root grow first because it is the part of the plant that will get disposed in the ground first. The then dead root provides nutrients for the rest of the seed that allow the plant to grow and survive.,incorrect,incorrect
+1,Because the root supplies the growing plant with water and other nutrients.,correct,correct
+1,"Because of water and nutrients in the earth. Since they are toxic, the root destroys them.",incorrect,incorrect
+1,The root makes the plant survive.,incorrect,incorrect
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,"The root wants to meet the sunlight first, which is why it germinates first.",incorrect,incorrect
+1,Other parts need light later.,incorrect,incorrect
+1,Because of earth,incorrect,incorrect
+1,Because of water and nutrients,correct,incorrect
+1,The root grow first because it is the part of the plant that will get disposed in the ground first. The then dead root provides nutrients for the rest of the seed that allow the plant to grow and survive.,incorrect,incorrect
+1,Because the root supplies the growing plant with water and other nutrients.,correct,correct
+1,"Because of water and nutrients in the earth. Since they are toxic, the root destroys them.",incorrect,incorrect
+1,The root makes the plant survive.,incorrect,incorrect
+1,Becusae of water and nutients,correct,incorrect
+1,Because of water and nuclear weapons,incorrect,incorrect
+1,"The root supplies the plant with sun light, which allows the plant to engage in photosynthesis.",incorrect,incorrect
+1,"The root supplies the plant with nutrients and water, which allow the plant to engage in photosynthesis.",incorrect,correct
+1,"The root supplies the plant with nutrients and water, which allow the plant to grow.",correct,correct
+1,For photosynthesis,incorrect,incorrect
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,"The root wants to meet the sunlight first, which is why it germinates first.",incorrect,incorrect
+1,Other parts need light later.,incorrect,incorrect
+1,Because of earth,incorrect,incorrect
+1,Because of water and nutrients,correct,incorrect
+1,The root grow first because it is the part of the plant that will get disposed in the ground first. The then dead root provides nutrients for the rest of the seed that allow the plant to grow and survive.,incorrect,incorrect
+1,Because the root supplies the growing plant with water and other nutrients.,correct,correct
+1,"Because of water and nutrients in the earth. Since they are toxic, the root destroys them.",incorrect,incorrect
+1,The root makes the plant survive.,incorrect,incorrect
+1,Becusae of water and nutients,correct,incorrect
+1,Because of water and nuclear weapons,incorrect,incorrect
+1,"The root supplies the plant with sun light, which allows the plant to engage in photosynthesis.",incorrect,incorrect
+1,"The root supplies the plant with nutrients and water, which allow the plant to engage in photosynthesis.",incorrect,correct
+1,"The root supplies the plant with nutrients and water, which allow the plant to grow.",correct,correct
+1,For photosynthesis,incorrect,incorrect
+1,For water and nutrients,correct,incorrect
+1,Because this particular plant grows unterground.,incorrect,incorrect
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,"The root wants to meet the sunlight first, which is why it germinates first.",incorrect,incorrect
+1,Other parts need light later.,incorrect,incorrect
+1,Because of earth,incorrect,incorrect
+1,Because of water and nutrients,correct,incorrect
+1,The root grow first because it is the part of the plant that will get disposed in the ground first. The then dead root provides nutrients for the rest of the seed that allow the plant to grow and survive.,incorrect,incorrect
+1,Because the root supplies the growing plant with water and other nutrients.,correct,correct
+1,"Because of water and nutrients in the earth. Since they are toxic, the root destroys them.",incorrect,incorrect
+1,The root makes the plant survive.,incorrect,incorrect
+1,Becusae of water and nutients,correct,incorrect
+1,Because of water and nuclear weapons,incorrect,incorrect
+1,"The root supplies the plant with sun light, which allows the plant to engage in photosynthesis.",incorrect,incorrect
+1,"The root supplies the plant with nutrients and water, which allow the plant to engage in photosynthesis.",incorrect,correct
+1,"The root supplies the plant with nutrients and water, which allow the plant to grow.",correct,correct
+1,For photosynthesis,incorrect,incorrect
+1,For water and nutrients,correct,incorrect
+1,Because this particular plant grows unterground.,incorrect,incorrect
+1,Because of water and nuclear nutrients,incorrect,incorrect
+1,Because of warfare and nutrients,incorrect,incorrect
+1,Because of waterboarding,incorrect,incorrect
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,"The root wants to meet the sunlight first, which is why it germinates first.",incorrect,incorrect
+1,Other parts need light later.,incorrect,incorrect
+1,Because of earth,incorrect,incorrect
+1,Because of water and nutrients,correct,incorrect
+1,The root grow first because it is the part of the plant that will get disposed in the ground first. The then dead root provides nutrients for the rest of the seed that allow the plant to grow and survive.,incorrect,incorrect
+1,Because the root supplies the growing plant with water and other nutrients.,correct,correct
+1,"Because of water and nutrients in the earth. Since they are toxic, the root destroys them.",incorrect,incorrect
+1,The root makes the plant survive.,incorrect,incorrect
+1,Becusae of water and nutients,correct,incorrect
+1,Because of water and nuclear weapons,incorrect,incorrect
+1,"The root supplies the plant with sun light, which allows the plant to engage in photosynthesis.",incorrect,incorrect
+1,"The root supplies the plant with nutrients and water, which allow the plant to engage in photosynthesis.",incorrect,correct
+1,"The root supplies the plant with nutrients and water, which allow the plant to grow.",correct,correct
+1,For photosynthesis,incorrect,incorrect
+1,For water and nutrients,correct,incorrect
+1,Because this particular plant grows unterground.,incorrect,incorrect
+1,Because of water and nuclear nutrients,incorrect,incorrect
+1,Because of warfare and nutrients,incorrect,incorrect
+1,Because of waterboarding,incorrect,incorrect
+1,Because of water and nutients,correct,incorrect
+1,The root grows first because it is the part of the plant that roots in the plant in the ground but more importantly supplies the plant with water and other nutrients that allow the plant to grow and survive.,correct,correct
+1,"The root wants to meet the sunlight first, which is why it germinates first.",incorrect,incorrect
+1,Other parts need light later.,incorrect,incorrect
+1,Because of earth,incorrect,incorrect
+1,Because of water and nutrients,correct,incorrect
+1,The root grow first because it is the part of the plant that will get disposed in the ground first. The then dead root provides nutrients for the rest of the seed that allow the plant to grow and survive.,incorrect,incorrect
+1,Because the root supplies the growing plant with water and other nutrients.,correct,correct
+1,"Because of water and nutrients in the earth. Since they are toxic, the root destroys them.",incorrect,incorrect
+1,The root makes the plant survive.,incorrect,incorrect
+1,Becusae of water and nutients,correct,incorrect
+1,Because of water and nuclear weapons,incorrect,incorrect
+1,"The root supplies the plant with sun light, which allows the plant to engage in photosynthesis.",incorrect,incorrect
+1,"The root supplies the plant with nutrients and water, which allow the plant to engage in photosynthesis.",incorrect,correct
+1,"The root supplies the plant with nutrients and water, which allow the plant to grow.",correct,correct
+1,For photosynthesis,incorrect,incorrect
+1,For water and nutrients,correct,incorrect
+1,Because this particular plant grows unterground.,incorrect,incorrect
+1,Because of water and nuclear nutrients,incorrect,incorrect
+1,Because of warfare and nutrients,incorrect,incorrect
+1,Because of waterboarding,incorrect,incorrect
+1,Because of water and nutrients,correct,incorrect
+0,None exits heat sink,incorrect,contradictory
+0,Heat Sink is a heat sink,incorrect,incorrect
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels.",correct,correct
+0,A heat sink absorbs heat,correct,correct
+0,"A heat sink is a device that incorporates either a fan or some other means to keep a hot component, such as a processor, cooled down.",correct,correct
+0,A heat sink is used to cool a PC,correct,incorrect
+0,A heat sink is used to cool a Person,incorrect,incorrect
+0,A heat sink is used to shave a PC,incorrect,incorrect
+0,A heat sink is used to cool a Processor,correct,incorrect
+0,A heat sink can cool components,correct,incorrect
+0,A heat sink is used to cool components,correct,incorrect
+0,A heat sink is a sink that is hot.,incorrect,correct
+0,A heat sink is a mechanism in computer linguistics in which the answer is predicted very fast but wrong.,incorrect,incorrect
+0,A heat sink is the abbreviation for 'heat synchronizer'. It is a part of a computer hardware that prevents it from overheating by synchronizing its temperature with the room temperature.,incorrect,incorrect
+0,A heat sink is used to cool components by tranfering generated heat,correct,correct
+0,None exits heat sink,incorrect,contradictory
+0,Heat Sink is a heat sink,incorrect,incorrect
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels.",correct,correct
+0,A heat sink absorbs heat,correct,correct
+0,"A heat sink is a device that incorporates either a fan or some other means to keep a hot component, such as a processor, cooled down.",correct,correct
+0,A heat sink is used to cool a PC,correct,incorrect
+0,A heat sink is used to cool a Person,incorrect,incorrect
+0,A heat sink is used to shave a PC,incorrect,incorrect
+0,A heat sink is used to cool a Processor,correct,incorrect
+0,A heat sink can cool components,correct,incorrect
+0,A heat sink is used to cool components,correct,incorrect
+0,A heat sink is a sink that is hot.,incorrect,correct
+0,A heat sink is a mechanism in computer linguistics in which the answer is predicted very fast but wrong.,incorrect,incorrect
+0,A heat sink is the abbreviation for 'heat synchronizer'. It is a part of a computer hardware that prevents it from overheating by synchronizing its temperature with the room temperature.,incorrect,incorrect
+0,A heat sink is used to cool components by transferring generated heat,correct,correct
+0,A heat sink is used to cool Persons by transferring generated heat,incorrect,correct
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels.",correct,correct
+0,none exists a fridge,incorrect,incorrect
+0,a fridge,incorrect,incorrect
+0,                                                                                 ,incorrect,incorrect
+0,a oven ,contradictory,incorrect
+0,a device that gets hot and warms the room ,contradictory,incorrect
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels.",correct,correct
+0,none exists a fridge,incorrect,incorrect
+0,a fridge,incorrect,incorrect
+0,                                                                                 ,incorrect,incorrect
+0,a oven ,contradictory,incorrect
+0,a device that gets hot and warms the room ,contradictory,incorrect
+0,"Ein Kühlkörper ist ein Körper, der die wärmeabgebende Oberfläche eines wärmeproduzierenden Bauteils vergrößert. Damit kann einer möglichen Beschädigung durch Überhitzung vorgebeugt werden. ",correct,incorrect
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels.",correct,correct
+0,none exits a fridge,incorrect,contradictory
+0,a fridge,incorrect,incorrect
+0,                                                                                 ,incorrect,incorrect
+0,a oven ,contradictory,incorrect
+0,a device that gets hot and warms the room ,contradictory,incorrect
+0,"Ein Kühlkörper ist ein Körper, der die wärmeabgebende Oberfläche eines wärmeproduzierenden Bauteils vergrößert. Damit kann einer möglichen Beschädigung durch Überhitzung vorgebeugt werden. ",correct,incorrect
+1,"A seed germinates when it is in a favorable condition, and thus begins to grow a root and a seed leaf. As these two parts continue to grow, the leaf will eventually poke through the soil.",correct,incorrect
+1,none exits blue is my favorite color,incorrect,incorrect
+2,none exists a definition ,incorrect,incorrect
+2,non exists a dolphin,incorrect,incorrect
+2,none exits purple rain,incorrect,incorrect
+2,a controlled experiment is a experiment,incorrect,incorrect
+2,a conrtolled expreiment is a xeperiment,incorrect,incorrect
+1,Because the root supplies the plant with water and minerals which are relevant for the further growing.,correct,correct
+1,"The stem grows first, as it supplies the plant with water and minerals.",contradictory,correct
+1,none exits root grow first,incorrect,incorrect
+1,True root water ,incorrect,incorrect
+1,return true; \n root water,incorrect,incorrect
+1,Because the root supplies the plant with water and minerals which are relevant for the further growing.,correct,correct
+1,"The stem grows first, as it supplies the plant with water and minerals.",contradictory,correct
+1,none exits root grow first,incorrect,incorrect
+1,True root water ,incorrect,incorrect
+1,return true; \n root water,incorrect,incorrect
+1,"That's wrong, the stem grows first, as it supplies the plant with water and minerals.",contradictory,correct
+1,none exits,incorrect,incorrect
+1,return;,incorrect,incorrect
+1,true True minerals,incorrect,incorrect
+1,The plant needs water and minerals.,correct,correct
+1,water,incorrect,incorrect
+1,None exits growing water,incorrect,incorrect
+1,"""True"" ",incorrect,incorrect
+1,return false;,incorrect,incorrect
+1,return true;,incorrect,incorrect
+1,return True;,incorrect,incorrect
+1,The plant needs water and minerals.,correct,correct
+1,water,incorrect,incorrect
+1,none exits growing water,incorrect,incorrect
+1,"""True"" ",incorrect,incorrect
+1,return false;,incorrect,incorrect
+1,return true;,incorrect,incorrect
+1,return True;,incorrect,incorrect
+1,"score = ""Correct""",incorrect,incorrect
+1,addAnswer();return true;,incorrect,incorrect
+1,"score = ""correct""",incorrect,incorrect
+1,addAnswer(true);,incorrect,incorrect
+1,return 0;,incorrect,incorrect
+0,none exits,incorrect,contradictory
+0,none exits heat,incorrect,contradictory
+0,It is a passive heat exchanger to hold the temperature stable.,correct,incorrect
+0,temperature heat cold,incorrect,incorrect
+0,It is a passive heat exchanger to regulate the temperature of a device,correct,incorrect
+2,It is an experiment where everything is controlled.,incorrect,incorrect
+2,It is defined by changing nothing except one variable in the experiment. Everything else stays constant. ,correct,correct
+2,It is an experiment where something is controlled.,incorrect,incorrect
+0,a device,correct,incorrect
+0,a device,incorrect,incorrect
+0,a device for cooling air,correct,incorrect
+0,"A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant, where it is dissipated away from the device, thereby allowing regulation of the device's temperature at optimal levels",correct,correct
+0,"In computers, heat sinks are used to cool CPUs, GPUs, and some chipsets and RAM modules",correct,incorrect
+0,cool heat exchanger passive electronic device,incorrect,incorrect
+0,A heat sink transfers thermal energy from a higher temperature device to a lower temperature fluid medium,correct,correct
+0,A heat device warms up cool electronic components,contradictory,incorrect
+0,A heat sink is a active heat generator that transfers the heat generated by an electronic or a mechanical device to a soldi medium,incorrect,correct
+0,A heat device warms up cool electronic components,contradictory,incorrect
+0,A thing absorbing heat.,correct,incorrect
+0,A thing absorbing hot water.,incorrect,incorrect
+0,Most likely something like a dog.,incorrect,incorrect
+0,Something like a cold sink.,contradictory,incorrect
+1,Because the seed needs to drink water.,correct,correct
+1,Because the seed needs to suck water.,correct,correct
+1,Because the seed needs water for growing leaves needed for photosynthesis.,correct,correct
+1,Because the seed is afraid of light.,incorrect,incorrect
+1,A thing needing earth.,incorrect,incorrect
+1,Because the seed needs liquid.,correct,incorrect
+1,Because the seed needs earth.,incorrect,incorrect
+1,Because the seed needs leaves for photosynthesis.,incorrect,incorrect
+1,Because the seed needs to stay away from water.,contradictory,correct
+1,The seed needs to dehydrate.,incorrect,incorrect
+2,As an experiment where only one variable is changed at a time.,correct,correct
+2,As an experiment where only one variable is constant at a time.,contradictory,correct
+2,As an experiment which is fun.,incorrect,incorrect
+2,A controlled experiment is an experiment where only one variable is changed at a time.,correct,correct
+2,A controlled experiment is an experiment where only one variable is constant at a time.,incorrect,correct
+26,as parameters,correct,incorrect
+2,A controlled experiment is one in which everything is held constant except for one variable.,correct,correct
+2,A controlled experiment is one in which everything is held constant except for one variable.,correct,correct
+2,A controlled experiment is one in which nothing is held constant except for one variable.,incorrect,correct
+2,A controlled experiment is one in which everything is held variable except for one constant.,contradictory,correct
+14,One constructor can be created for a class,correct,incorrect
+14,One constructor can be created for a class,correct,incorrect
+14,As many as one needs,correct,incorrect
+14,One constructor can be created for a class,correct,incorrect
+14,As many as one needs,correct,incorrect
+14,"And according to Tom Hawtin, the effective limit of Methods is 65527. Thus the number of constructors that can be defined for a class is 65527",correct,incorrect
+42,A data type,correct,incorrect
+63,"A tree is a perennial plant with an elongated stem, or trunk, supporting branches and leaves in most species.",contradictory,incorrect
+63,A tree is a tea leaf you store in a lymph node with a root that has the value of one coin.,incorrect,incorrect
+79,It works by Sorting on pairwised comparison.,contradictory,incorrect
+79,It works by pairwised comparison of two lists and merging these two lists together into one list.,correct,incorrect
+79,It works by merging two sorted lists into one unsortded list.,incorrect,correct
+79,It works by comparing two merged lists and sorting another list.,incorrect,incorrect
+18,Locally in the method or class.,incorrect,incorrect
+18,Global.,correct,incorrect
+18,Everywhere,contradictory,incorrect
+18,Not global,incorrect,incorrect
+18,Not local,contradictory,incorrect
+18,Hello World,incorrect,incorrect
+9,The while statements checks if the condition is true and then does something. The do...while statement does something and then checks the condition for the next run.,correct,incorrect
+9,"The do...while statement guarantees, that the inner code is executed at least once.",correct,correct
+9,"The while statement garantees, that the inner code is executed at least once.",incorrect,incorrect
+9,They are both the same.,incorrect,incorrect
+9,I don't know. ,incorrect,incorrect
+9,The do while statement is like a while statement with a copy of the inner code before it.,correct,incorrect
+2,"A controlled experiment is a scientific test done under controlled conditions, meaning that just one (or a few) factors are changed at a time, while all others are kept constant.",correct,correct
+2,Scientific independent variable with experiment to minimize design in order to effects,incorrect,incorrect
+0,passive heat generator made of copper without a fan.,incorrect,incorrect
+0,A piece of hardware that cools attached hardware by passing heat into the air. Usually heat sinks have lot of surface area and are made from copper.,correct,correct
+0,A piece of metal that exchanges heat from attached hardware into the air.,correct,correct
+0,A fan of passive physical heat exchange,incorrect,incorrect
+23,Every algorithm can be expressed in both ways.,correct,incorrect
+23,"Recursion needs a recursion anchor to end, iteration needs a variable check to end.",incorrect,incorrect
+23,Both are ways to express algorithms.,correct,incorrect
+23,They do not have similarities,incorrect,incorrect
+23,Both need to check variables to decide wether they have to stop or to continue.,correct,incorrect
+23,Both iteration and recursion are based on a control structure: Iteration uses a repetition structure; recursion uses a selection structure. Both iteration and recursion involve repetition: Iteration explicitly uses a repetition structure; recursion achieves repetition through repeated method calls.,correct,incorrect
+22,The missing of a recursion anchor condition.,correct,incorrect
+22,Forwarding of unchanged input values into the next recursion.,correct,incorrect
+63,A diagram or graph that branches usually from a simple stem or vertex without forming loops or polygons.,correct,incorrect
+63,"In computer science, a tree is a widely used abstract data type that simulates a hierarchical tree structure, with a root value and subtrees of children with a parent node, represented as a set of linked nodes.",correct,incorrect
+1,To water the garden,incorrect,incorrect
+0,heat,incorrect,incorrect
+0,heated,incorrect,incorrect
+0,heat,incorrect,incorrect
+0,heated,incorrect,incorrect
