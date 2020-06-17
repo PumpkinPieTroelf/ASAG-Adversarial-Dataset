@@ -10,3 +10,5 @@ The dataset consists of 4 columns:
 - the second is the actual answer
 - the third contains the label assigned by the student that wrote the answer
 - the fourth includes the labels assigned by the grading model during the exercise
+
+NOTE: The answers and labels assigned by the students were not modified beyond removing line breaks. A version of the dataset with actual gold labels may be added to this repository at a later date.
